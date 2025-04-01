@@ -1,7 +1,7 @@
 AI-Powered Email Summarizer
 An AI-driven agent that fetches, summarizes, and prioritizes emails from the previous day using GPT-4.
 
-Features
+
 Fetches emails from Gmail using OAuth 2.0
 Uses GPT-4 to summarize and rank emails by priority
 Displays top 10 emails in an interactive Streamlit UI
@@ -37,7 +37,10 @@ OPENAI_API_KEY=your-api-key-here
 
 
 streamlit run app.py
+
 How It Works
+
+
 Logs into Gmail and fetches the previous day’s emails
 Summarizes emails using GPT-4/o1
 Ranks and displays the top 10 emails in a tabular format
