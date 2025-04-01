@@ -54,5 +54,8 @@ How It Works
 Logs into Gmail and fetches the previous day’s emails
 Summarizes emails using GPT-4/o1
 Ranks and displays the top 10 emails in a tabular format
+
+
+
 License
 This project is open-source 
